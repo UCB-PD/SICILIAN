@@ -11,3 +11,5 @@ Krasnow*
 *tsv
 slurm*
 *txt
+
+__pycache__
